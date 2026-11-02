@@ -2,8 +2,7 @@
 
 🚀 Turning ideas into interactive web applications.
 
-
-# I'm a Full Stack Developer passionate about building web applications, exploring new technologies, and solving real-world problems through code.
+  I'm a Full Stack Developer passionate about building web applications, exploring new technologies, and solving real-world problems through code.
 
  - Working with the MERN Stack
  - Exploring AI, Generative AI, and Backend Development
